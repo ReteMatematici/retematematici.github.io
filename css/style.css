@@ -1,0 +1,20 @@
+
+/* Header */
+@media (min-width: 992px) {
+  #headerbackground{
+    background-color: #7D8E95;
+    /* background-image: url("../images/mathbackground.png"); */
+    background-repeat: no-repeat;
+    background-position: 100% 50%;
+    background-size: auto;
+  }
+}
+
+.title-text {
+  color: #B3E5FF;
+}
+
+.title-text2 {
+  font-variant: small-caps;
+  color: white;
+}
